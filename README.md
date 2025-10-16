@@ -1,2 +1,2 @@
 # Challenges
-Coding challenegs completed during university coursework.
+Contains coding challenges completed during university coursework.
